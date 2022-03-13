@@ -26,4 +26,4 @@ pip install -r requirements.txt
 * Front End
 
 ## Contributor
-### ASHOK KUMAR S
+ASHOK KUMAR S
