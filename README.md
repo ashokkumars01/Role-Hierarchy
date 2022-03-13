@@ -1,6 +1,6 @@
 # Role Hierarchy (Roles and Users)
 
-## Problem Statement
+## Overview
 
 Assume you start a company and you are going to recruit people for different roles.
 Before that, you have to design the roles and its hierarchy. So to make it simple, develop
@@ -16,3 +16,14 @@ Python
 1. Python IDLE (v 3.8.9)
 2. Visual Studio Code
 
+## Installation
+The Code is written in Python 3.8.9. If you don't have Python installed you can click on the link https://www.python.org/downloads/. If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after cloning the repository:
+
+pip install -r requirements.txt
+
+## Future Scope
+* Web App
+* Front End
+
+## Contributor
+### ASHOK KUMAR S
